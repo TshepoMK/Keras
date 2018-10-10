@@ -2,7 +2,7 @@
 
 ## Dataset
 * Titanics
-* Motorvehicle data
+* Miles Per Galon data
 
 ## Presentation
 
