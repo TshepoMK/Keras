@@ -10,5 +10,8 @@
 
 ## Code
 * Keras gentle introduction
-* Runs on colab is you skip the first cell that says run
-* Eager mode doesn't play nice
+* The use cases included in the notebook are:
+* Binary Classification
+* MultiClass Classification
+* Regression Analysis
+* Using Pre-Trained Models
